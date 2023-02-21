@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat page | Chat</title>
+</head>
+<body>
+    <form action="{{ url_for('chat_page') }}" method="POST">
+        <label for="name"></label>
+        <input type="text" id="name" name="name_sender" placeholder="Enter name">
+        <label for="message"></label>
+        <input type="text" id="message" name="message_sender" placeholder="Enter message">
+        <p><input type="submit" value="Send message"></p>
+    </form>
+    <h1></h1>
+</body>
+</html>
