@@ -1,0 +1,8 @@
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\bin\Debug\ConvertRuUsd.exe.config
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\bin\Debug\ConvertRuUsd.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\bin\Debug\ConvertRuUsd.pdb
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\obj\Debug\ConvertRuUsd.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\obj\Debug\ConvertRuUsd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\obj\Debug\ConvertRuUsd.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\obj\Debug\ConvertRuUsd.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\ConvertRuUsd\obj\Debug\ConvertRuUsd.pdb

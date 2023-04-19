@@ -1,0 +1,8 @@
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\bin\Debug\SumMultiplication.exe.config
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\bin\Debug\SumMultiplication.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\bin\Debug\SumMultiplication.pdb
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\obj\Debug\SumMultiplication.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\obj\Debug\SumMultiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\obj\Debug\SumMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\obj\Debug\SumMultiplication.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\work1\SumMultiplication\obj\Debug\SumMultiplication.pdb

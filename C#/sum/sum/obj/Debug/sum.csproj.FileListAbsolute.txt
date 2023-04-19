@@ -1,0 +1,8 @@
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\bin\Debug\sum.exe.config
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\bin\Debug\sum.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\bin\Debug\sum.pdb
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\obj\Debug\sum.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\obj\Debug\sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\obj\Debug\sum.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\obj\Debug\sum.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\sum\sum\obj\Debug\sum.pdb
