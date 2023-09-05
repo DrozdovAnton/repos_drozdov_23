@@ -1,0 +1,8 @@
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\bin\Debug\IncrementDecrement.exe.config
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\bin\Debug\IncrementDecrement.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\bin\Debug\IncrementDecrement.pdb
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\obj\Debug\IncrementDecrement.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\obj\Debug\IncrementDecrement.exe
+C:\Users\Антон\Desktop\rep\repository_23\C#\Lessons\IncrementDecrement\obj\Debug\IncrementDecrement.pdb
